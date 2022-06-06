@@ -9,7 +9,7 @@ const Banner = () => {
     <>
       <OwlCarousel className="owl-theme" loop margin={10} nav>
         {banner.map((banner, id = 0) => (
-          <div class="item" key={id++}>
+          <div className="item" key={id++}>
             <Image src={banner}></Image>
           </div>
         ))}
