@@ -1,0 +1,10 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+@import url('./_value.scss');
+@import url('./_navbar.scss');
+@import url('./_banner.scss');
+@import url('./_card.scss');
+@import url('./_products.scss');

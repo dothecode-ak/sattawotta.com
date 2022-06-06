@@ -1,0 +1,25 @@
+.cardList
+{
+    color: #000000;
+    .card{
+        .card-body
+        {
+            button
+            {
+                background-color: #000000 !important;
+                a
+                {
+                    color: #fff;
+                    text-decoration: none;
+                }
+                a:hover
+                {
+                    color: #fff;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+ 
+ 

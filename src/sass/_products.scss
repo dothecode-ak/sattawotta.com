@@ -1,0 +1,14 @@
+#p_main
+{
+    position: relative;
+    #allProducts
+    {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 21px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+}
